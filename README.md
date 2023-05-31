@@ -40,6 +40,22 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
 
 ##
 
+<h2 align="center">📦 Aqui está o projeto documentada no Notion 📦</h2>
+<p align="center">
+  <a href="https://www.notion.so/Teste-pr-tico-processo-seletivo-428930dec1da477793908604d1b2bd29?pvs=4">Clique para ver a documentão</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+##
+
+##
+
+<h2 align="center">💠 E aqui o Jira desenvolvido para o projeto 💠</h2>
+<p align="center">
+  <a href="https://jveiga.atlassian.net/jira/software/projects/T2S/boards/1">Clique para ver a sprint</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+##
+
 <p align="center">
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -61,7 +77,7 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
     > │   ├── ⚙️ compile
     > │   ├── ⚙️ test
     > │   ├── ⚙️ test-compile
-    > │   ├── ⚙️ package (Ao clickar aqui, aparecerá um ícone desses ▶️ click nele para intalar os pacotes de dependências).
+    > │   ├── ⚙️ package (Ao cliquar aqui, aparecerá um ícone desses ▶️ clique nele para intalar os pacotes de dependências).
     > │   ├── ⚙️ verify
     > │   ├── ⚙️ install
     > │   ├── ⚙️ site
@@ -80,7 +96,7 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
     > │   └────── 📂 com
     > │   └──────── 📂 example
     > │   └────────── 📂 T2Sdemo
-                        └── ☕️ T2SdemoApplication.java (Ao clickar aqui, aparecerá um ícone desses ▶️ no canto direito superior, click nele e o servidor será inicializado).
+                        └── ☕️ T2SdemoApplication.java (Ao cliquar aqui, aparecerá um ícone desses ▶️ no canto direito superior, clique nele e o servidor será inicializado).
                         
      -Ps: anexei ao projeto o Insomnia-food.json que pode ser importado no Insomnia e utilizado, mas sinta-se a vontade para utilizar o de sua prefêrencia.
 
