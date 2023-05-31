@@ -1,11 +1,13 @@
 package com.example.T2Sdemo.container;
 
-// import java.util.List;
+import java.util.List;
 
 import javax.persistence.*;
 
+import com.example.T2Sdemo.movement.Movement;
+
 @Table(name = "containers")
-@Entity(name = "containers")
+@Entity(name = "ContainerEntity")
 public class Container {
 
     @Id
@@ -27,8 +29,8 @@ public class Container {
     @Column(name = "category", nullable = false)
     private String category;
     
-    // @OneToMany(mappedBy = "container")
-    // private List<Movement> movements;
+    @OneToMany(mappedBy = "container")
+    private List<Movement> movements;
 
     public Container() {
 
