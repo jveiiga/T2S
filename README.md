@@ -21,12 +21,12 @@ GET /containers <br/>
 GET /movements <br/>
 
 ### Edição
-PATCH /containers/:id
-PATCH /movements/:id
+PATCH /containers/:id<br/>
+PATCH /movements/:id<br/>
 
 ### Deleção
-DELETE /containers/:id
-DELETE /movements/:id
+DELETE /containers/:id<br/>
+DELETE /movements/:id<br/>
 
 
 <h1 align="center">
