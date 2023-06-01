@@ -8,7 +8,7 @@ Existe 2 endpoints que podem ser utilizado para GET e POST:<br/>
 `localhost:8080/containers`<br/>
 `localhost:8080/movements`
 
-O mesmo pode ser utilizado para o PATCH e o DELETE, basta adicionar como parâmetro o id na rota:<br/>
+Os mesmos podem ser utilizado para o PATCH e o DELETE, basta adicionar como parâmetro o id na rota:<br/>
 `localhost:8080/containers/23`<br/>
 `localhost:8080/movements/23`
 
