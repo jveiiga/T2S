@@ -98,7 +98,7 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
     > │   └────────── 📂 T2Sdemo
                         └── ☕️ T2SdemoApplication.java (Ao cliquar aqui, aparecerá um ícone desses ▶️ no canto direito superior, clique nele e o servidor será inicializado).
                         
-     -Ps: anexei ao projeto o Insomnia-food.json que pode ser importado no Insomnia e utilizado, mas sinta-se a vontade para utilizar o de sua prefêrencia.
+     -Ps: anexei ao projeto o Insomnia.json que pode ser importado no Insomnia e utilizado, mas sinta-se a vontade para utilizar o de sua prefêrencia.
 
 <p align="center">
   <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
