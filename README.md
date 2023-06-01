@@ -63,7 +63,7 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
 ## Instalação
 
     - Clonar repositorio
-    $ git clone https://github.com/jveiiga/project-cardapio.git
+    $ git clone https://github.com/jveiiga/T2Sdemo.git
     
     Sobre o Projeto 📺
     
