@@ -54,6 +54,14 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
   <a href="https://jveiga.atlassian.net/jira/software/projects/T2S/boards/1">Clique para ver a sprint</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+##
+
+<h2 align="center">📺 Video gravado apresentando o desenvolvimento 📺</h2>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7UlvCm6doXA&feature=youtu.be">Clique para ver</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 ##
 
 <p align="center">
