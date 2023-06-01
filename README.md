@@ -4,7 +4,7 @@ Esse é o repositório da API T2Sdemo, feito com Spring Initializr.
 
 ## Endpoints
 
-Existe 2 endpoints que pode ser utilizado para GET e POST:<br/>
+Existe 2 endpoints que podem ser utilizado para GET e POST:<br/>
 `localhost:8080/containers`<br/>
 `localhost:8080/movements`
 
