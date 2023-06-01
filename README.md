@@ -40,7 +40,7 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
 
 ##
 
-<h2 align="center">📦 Aqui está o projeto documentada no Notion 📦</h2>
+<h2 align="center">📦 Aqui está o projeto documentado no Notion 📦</h2>
 <p align="center">
   <a href="https://www.notion.so/Teste-pr-tico-processo-seletivo-428930dec1da477793908604d1b2bd29?pvs=4">Clique para ver a documentão</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
