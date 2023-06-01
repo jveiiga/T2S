@@ -106,7 +106,7 @@ Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
 
 ## **Endpoints**
 
-API CRUD de lanches. <br/>
+API CRUD de Contêiners e Movimentos. <br/>
 
 baseUrl da API: `localhost:8080`
 
