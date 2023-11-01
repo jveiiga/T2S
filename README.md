@@ -34,7 +34,7 @@ DELETE /movements/:id<br/>
 </h1>
 
 <p align = "center">
-Este é o backend da aplicação T2Sdemo - Feito para o processo seletivo T2S.
+Este é o backend da aplicação T2Sdemo.
 
 <blockquote align="center">“Focada exclusivamente no Setor Portuario.”</blockquote>
 
